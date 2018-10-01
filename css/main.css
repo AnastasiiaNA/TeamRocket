@@ -369,3 +369,27 @@ footer{
         margin-bottom: 50px;
     }
 }
+
+@media screen and (max-width: 991px){
+
+    .time_line{
+        height: 1500px;
+    }
+    .cosmo_dog img{
+        width: 250px;
+        height: 200px;
+    }
+    .stars_text p{
+        font-size: 20px;
+    }
+
+    .cloud_rocket{
+        margin-bottom: 20px;
+    }
+    .cloud_rocket2{
+        margin-bottom: 20px;
+    }
+    .rocket img{
+        width: 200px;
+    }
+}
