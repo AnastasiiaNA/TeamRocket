@@ -354,4 +354,18 @@ footer{
     padding-top: 120px;
 }
 
+/*Media*/
 
+@media screen and (max-width: 1199px){
+    .time_line{
+        background: url("../img/timeline.png") no-repeat left center #1b2947;
+        width: 100%;
+        height: 1132px;
+    }
+}
+
+@media screen and (max-width: 1199px){
+    .cloud_rocket2{
+        margin-bottom: 50px;
+    }
+}
