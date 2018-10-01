@@ -393,3 +393,42 @@ footer{
         width: 200px;
     }
 }
+
+@media screen and (max-width: 767px){
+    .menu a{
+        font-size: 19px;
+    }
+    .banner_block1{
+        padding-top: 80px;
+    }
+    .text_block1 h1{
+        padding-bottom: 50px;
+    }
+    .text_block1 p{
+        padding-bottom: 34px;
+    }
+    .rocket{
+        padding-top: 0;
+    }
+    .rocket img{
+        width: 150px;
+    }
+    .time_line{
+        height: 2250px;
+    }
+    .planet_text p{
+        padding-bottom: 19px;
+    }
+    .planet_text{
+        padding-top: 20px;
+    }
+    .time_planet p{
+        padding-bottom: 20px;
+    }
+    .stars_dog{
+        height: 750px;
+    }
+    .button_bottom{
+        margin-top: 35px;
+    }
+}
